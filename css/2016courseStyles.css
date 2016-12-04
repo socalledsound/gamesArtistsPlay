@@ -1,0 +1,170 @@
+body {
+	background-color: #ace742;
+}
+
+.page-header {
+	margin-left: -30px;
+}
+
+.page-header2 {
+	margin-left: -15px;
+}
+
+ul {
+	list-style: none;
+}
+
+li a {
+	color:#f69f19;
+	color:red;	
+	color: #ea0fbf;
+	display: inline-block;
+	font-size: 20pt; 
+	margin-top: -5px;
+	margin-bottom: 10px;
+	margin-left: 10px;
+	max-width:600px;
+	-webkit-text-stroke: 0.8px black;
+
+}
+
+p {
+	max-width: 400px;
+}
+.assignment {
+	/*color: #F20CC8;*/
+	color: black;
+	margin-top:30px;
+	margin-bottom:30px;
+	background-color: yellow;
+	background-color: #640fea;
+	background-color:#d394ff;
+	font-size: 14pt; 
+	max-width:420px;
+	padding-top: 20px;
+	padding-bottom: 20px;
+	padding-left: 20px;
+	padding-right: 20px;
+}
+
+.date{
+	font-size:18pt;
+	margin-left: 20px;
+}
+
+.dayTheme {
+	margin-left: 20px;
+/*	color: black; 
+	font-family:"Minion Pro", serif; 
+	font-style: normal; 
+	font-weight: normal; 
+	text-decoration: none; */
+	font-size: 18pt; 
+	max-width:400px;
+}
+
+/*#green {
+	background-color: #CDE472;
+}*/
+
+/*.myPanelBody {
+	font-size: 16px;
+}*/
+
+.linkz{
+	margin-top:15px;
+	margin-left: 20px;
+}
+
+.resources{
+	font-size: 18pt; 
+	margin-top:15px;
+	margin-left: 20px;
+}
+
+.resHead{
+	font-size: 24pt;
+}
+/*.resources li{
+	margin-top:15px;
+	margin-left: 20px;
+}*/
+
+.readings{
+	/*margin-top:15px;*/
+	margin-left: 20px;
+}
+
+.navbar {
+	background-color: #f69f19;
+	background-color: red;
+	background-color: #ea0fbf;
+	color: black; 
+
+}
+
+.navbar-brand {
+	background-color: #3e2c0f;
+	background-color: #f69f19;
+	margin-top: 10px;
+	/*color: black; */
+	
+}
+
+#resources  {
+	background-color: #ba9d7f;
+	color:black;
+	margin-right: 20px;
+	margin-left: 20px;
+	margin-top: 10px;
+
+}
+
+/*.panel {
+	float: right;
+}*/
+.panel-body{
+	background-color: #3e2c0f;
+	background-color: #ba9d7f;
+	/*background-color: black;*/
+	color:brown;
+	color:#640fea;
+	font-size: 12px;
+}
+
+#orangeyBlock{
+	background-color: #f69f19;
+	/*background-color: grey;*/
+}
+
+.project {
+	background-color: white;
+	margin-left: -30px; 
+	width:600px;
+}
+
+.project p{
+
+	margin-left: 50px; 
+	width:600px;
+}
+
+.subTitle {
+	max-width:400px;
+	margin-left: 20px;
+}
+
+#crit {
+	background-color: #E80C89;
+	margin-bottom: 30px;
+	max-width:420px;
+	padding-top: 100px;
+	padding-bottom: 100px;
+	padding-left: 20px;
+	padding-right: 20px;
+
+}
+
+.critText {
+		font-size: 60px;
+}
