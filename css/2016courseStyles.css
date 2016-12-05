@@ -46,6 +46,11 @@ a:hover {
 p {
 	max-width: 400px;
 }
+
+p a {
+	color: brown;
+}
+
 .assignment {
 	/*color: #F20CC8;*/
 	color: black;
@@ -147,10 +152,11 @@ p {
 	background-color:white;
 	/*background-color: black;*/
 	color:brown;
-	color:white;
+	/*color:white;*/
 	/*color:#640fea;*/
 	font-size: 16px;
-	-webkit-text-stroke: 0.4px black;
+	font-size: 12px;
+	/*-webkit-text-stroke: 0.4px black;*/
 }
 
 #orangeyBlock{
