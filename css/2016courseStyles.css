@@ -145,8 +145,8 @@ p a {
 #resources  {
 	background-color: #ba9d7f;
 	color:white;
-	margin-right: 10px;
-	margin-left: 20px;
+	/*margin-right: 10px;*/
+	margin-left: 10px;
 	margin-top: 10px;
 	max-width:100px;
 
@@ -155,11 +155,21 @@ p a {
 #studentWork {
 	background-color: #844125;
 		color:white;
-	margin-right: 20px;
+	/*margin-right: 10px;*/
 	margin-left: 10px;
 	margin-top: 10px;
 	max-width:140px;
 }
+
+#rules {
+	background-color: #38280e;
+		color:white;
+	/*margin-right: 10px;*/
+	margin-left: 10px;
+	margin-top: 10px;
+	max-width:140px;
+}
+
 
 /*.panel {
 	float: right;
