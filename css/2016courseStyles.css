@@ -17,10 +17,10 @@ h1 {
 	background-color: #20661b;
 	color:#3e2c0f;
 	color: #eb780a;
-	font-size: 24pt;
+	font-size: 22pt;
 	height:100px;
 	/*max-height: 200px;*/
-	max-width:600px;
+	max-width:500px;
 	padding-left: 30px;
 	padding-top:30px;
 }
@@ -36,7 +36,7 @@ li a {
 /*	color:red;	
 	color: #ea0fbf;*/
 	display: inline-block;
-	font-size: 12pt; 
+	font-size: 10pt; 
 	list-style: none;
 	margin-top: -5px;
 	margin-bottom: 10px;
@@ -68,11 +68,12 @@ p a {
 	background-color: #640fea;
 	background-color:#d394ff;
 	background-color: #eb780a;
-	font-size: 18pt; 
-	height:100px;
-	max-width:600px;
+	font-size: 12pt; 
+	/*height:100px;*/
+	max-width:500px;
 	padding-left: 30px;
 	padding-top:30px;
+	padding-bottom:30px;
 }
 
 .date{
@@ -100,7 +101,7 @@ p a {
 }*/
 
 .linkz{
-	font-size: 14pt;
+	font-size: 12pt;
 	margin-top:15px;
 	margin-left: 20px;
 }
@@ -143,11 +144,21 @@ p a {
 
 #resources  {
 	background-color: #ba9d7f;
-	color:black;
-	margin-right: 20px;
+	color:white;
+	margin-right: 10px;
 	margin-left: 20px;
 	margin-top: 10px;
+	max-width:100px;
 
+}
+
+#studentWork {
+	background-color: #844125;
+		color:white;
+	margin-right: 20px;
+	margin-left: 10px;
+	margin-top: 10px;
+	max-width:140px;
 }
 
 /*.panel {
@@ -187,6 +198,13 @@ p a {
 }
 
 .subTitle {
+	font-size:10pt;
+	max-width:400px;
+	margin-left: 20px;
+}
+
+.names {
+	font-size:8pt;
 	max-width:400px;
 	margin-left: 20px;
 }
